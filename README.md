@@ -43,10 +43,11 @@
 
 ```
 
----|---
-`note/`|解説ノート
-`data/`|データ格納ディレクトリ
-`sh/`|shell script格納
+|Directory|説明|想定拡張子(例)|
+|---|---|---|
+|`note/`|解説ノート|`.ipynb`|
+|`data/`|データ格納ディレクトリ|`.txt`, `.csv`, `.zip`|
+|`sh/`|shell script格納|`.sh`|
 
 ## 命名規則
 
