@@ -9,6 +9,7 @@
 - [命名規則](#%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87)
 - [APPENDIX](#appendix)
   - [Create GitHub Repository](#create-github-repository)
+  - [Clone Repository](#clone-repository)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -85,4 +86,10 @@
 % git branch -M main
 % git remote add origin git@github.com:RyoNakagami/LinuxShellCookbook.git
 % git push -u origin main
+```
+
+### Clone Repository
+
+```zsh
+% git clone https://RyoNakagami:${GIT_TOKEN}@github.com/RyoNakagami/LinuxShellCookbook
 ```
